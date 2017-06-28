@@ -1,6 +1,6 @@
 #quran For Android
 
-Free open source app for Quran listen online The app is on [Google Play](https://play.google.com/store/apps/details?id=com.onlines.quranonlinesapp&hl=en)
+Free open source app for Quran listen online The app is on [Google Play]
 
 ![read](https://lh3.googleusercontent.com/sD90RlO9fnpPiMQj_1344SAqcZt4JQprdBR5mRv_iA3JzgPvF29OSVKr_Wxkto_itKoa=h900)
 
